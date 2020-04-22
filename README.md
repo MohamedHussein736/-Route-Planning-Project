@@ -1,7 +1,7 @@
 # Route Planning Project
 https://confirm.udacity.com/9PL6RSGE
 
-![SensorFusion_Certificate](sensorFusion_certificate.png)
+![Cpp_certificate](Cpp_certificate.png)
 
 This repo contains the starter code for the Route Planning project.
 
